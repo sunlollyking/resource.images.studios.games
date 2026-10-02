@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.images.studios.games" name="Game Studio Icons - Coloured" version="0.0.1" provider-name="sunlollyking">
+<addon id="resource.images.studios.games" name="Game Studio Icons - Coloured" version="0.0.2" provider-name="sunlollyking">
 	<extension point="kodi.resource.images" compile="true" type="studios" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
@@ -12,6 +12,6 @@
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
-		<news>[B]v0.0.1[/B][CR]50 publishers, the most common in a large library.</news>
+		<news>[B]v0.0.2[/B][CR]49 more publishers, among them Ocean, Codemasters, Interplay, Enix, Square and Sierra.[CR][B]v0.0.1[/B][CR]50 publishers, the most common in a large library.</news>
 	</extension>
 </addon>
